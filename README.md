@@ -66,3 +66,7 @@ state = {
 статистики винеси в компонент `<Notification message="There is no feedback">`.
 
 ![preview](./assets/preview.gif)
+
+## Фінальний результат
+
+![Screencapture](./assets/screencapture.png)
